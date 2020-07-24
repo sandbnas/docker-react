@@ -21,7 +21,7 @@ on:
     branch: master
 
 access_key_id: $AWS_AK
-secret_access_key: $AWS_SK
+secret_access_key: $AWS_CK
 
 
         
